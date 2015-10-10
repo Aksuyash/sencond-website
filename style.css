@@ -1,0 +1,74 @@
+body {
+	background-color: #b0c4de;
+	margin: 0 auto;
+
+	
+}
+h2{
+	text-align: center;
+}
+.first{
+	
+	width:100%;
+	/*margin: 0 auto;*/
+	margin:-10px;
+}
+.second{
+	width: 100%;
+	/*margin: 0 auto;*/
+	font-size:20px;
+}
+
+.third{
+	width: 100%;
+	padding: 5px;
+	/*margin: 0 auto;*/
+	font-size:20px;
+
+}
+.improve{
+	font-family:"Times New Roman", Times, serif;
+	font-size:30px; 
+}
+a:hover{
+	font-size:35px;
+}
+a:visited{
+	color:#CC00CC;
+}
+a{
+	font-size:20px;
+	font-family:italics;
+}
+.one{
+	font-family:"Times New Roman", Times, serif;
+	text-align:justify;
+	font-size:20px;
+}
+#nature1{
+	background-image: url('http://wellnesscounselingmilwaukee.com/wp-content/uploads/2015/07/4-Nature-Wallpapers-2014-1.jpg');
+	background-size: cover;
+	height: 500px;
+}
+#header-tag{
+	opacity: .7;
+	border-radius: 15px;
+}
+#nature2{
+	background-image: url('http://www.freedomwallpaper.com/nature-wallpaper/Nature-Wallpapers-6.jpg');
+	height:500px;
+}
+#mid-tag{
+	opacity: .7;
+	border-radius:15px;
+}
+#nature3{
+	background-image: url('http://www.hdwallpapersllc.com/wp-content/uploads/2015/07/free_hd_nature_wallpaper.jpg');
+	background-position: center bottom;
+	height:150px;
+	text-align: center;
+}
+#last-tag{
+	opacity:.6;
+	border-radius:15px;
+}
